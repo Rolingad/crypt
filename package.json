@@ -1,0 +1,14 @@
+{
+  "name": "cryptretweet",
+  "version": "1.0.0",
+  "description": "retweets all i'm following",
+  "main": "crypt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Fialkoff",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.10"
+  }
+}
